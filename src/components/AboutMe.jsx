@@ -26,10 +26,10 @@ export default function AboutMe() {
         </p>
         <div className="grid grid-cols-2 gap-6 mb-8">
           {[
-            "Web Development",
-            "Search Engine Optimization",
-            "Social Media Marketing",
-            "Content Generation",
+            "Story Boarding",
+            "Character Design",
+            "Animation",
+            "3D Modeling",
           ].map((skill) => (
             <div
               key={skill}
