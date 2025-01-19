@@ -2,7 +2,10 @@ import React from "react";
 
 const Skills = () => {
   return (
-    <div id="skills" className="bg-gradient-to-b from-gray-50 to-gray-100 py-16 px-6 shadow-inner">
+    <div
+      id="skills"
+      className="bg-gradient-to-b from-gray-50 to-gray-100 py-16 px-6 shadow-inner"
+    >
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-4xl font-bold text-gray-900 mb-6 animate-fade-in">
           My Professional Expertise
@@ -16,7 +19,7 @@ const Skills = () => {
           <div className="transform transition-transform duration-300">
             <div className="flex justify-between mb-2">
               <span className="text-gray-800 font-semibold">
-                Web Development
+                2D/3D Animation
               </span>
               <span className="text-violet-600 font-bold">95%</span>
             </div>
@@ -30,7 +33,7 @@ const Skills = () => {
           <div className="transform transition-transform duration-300">
             <div className="flex justify-between mb-2">
               <span className="text-gray-800 font-semibold">
-                Brand Identity
+                Character Design
               </span>
               <span className="text-violet-600 font-bold">80%</span>
             </div>
@@ -43,7 +46,9 @@ const Skills = () => {
           </div>
           <div className="transform transition-transform duration-300">
             <div className="flex justify-between mb-2">
-              <span className="text-gray-800 font-semibold">Logo Design</span>
+              <span className="text-gray-800 font-semibold">
+                Story Boarding
+              </span>
               <span className="text-violet-600 font-bold">90%</span>
             </div>
             <div className="w-full bg-gray-200 rounded-full h-4 shadow-inner">
