@@ -22,11 +22,7 @@ export default function AboutMe() {
           <div className="absolute -bottom-2 left-0 w-1/2 h-1 bg-violet-500 rounded-full"></div>
         </h2>
         <p className="text-gray-600 mb-8 leading-relaxed">
-          Hello! I'm Alan Walker. I'm a web developer, and I'm very passionate
-          and dedicated to my work. With 20 years of experience as a
-          professional web developer, I have acquired the skills and knowledge
-          necessary to make your project a success. I enjoy every step of the
-          design process, from discussion and collaboration.
+          Hello! I'm Yassir Aitdaoud. Passionate digital artist with expertise in 2D animation, 3D modeling, motion graphics, VFX, and illustration. I bring creativity, attention to detail, and a strong work ethic to every project. My goal is to produce high-quality work that exceeds client expectations and leaves a lasting impact.
         </p>
         <div className="grid grid-cols-2 gap-6 mb-8">
           {[
