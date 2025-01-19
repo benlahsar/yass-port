@@ -8,7 +8,7 @@ export default function AboutMe() {
         <div className="relative">
           <div className="absolute -inset-4 bg-violet-500/20 rounded-xl blur-xl"></div>
           <img
-            src="/assets/profile.jpeg"
+            src="https://res.cloudinary.com/du9af99hf/image/upload/v1737287066/profile_fptzkx.jpg"
             alt="Profile"
             className="relative rounded-xl shadow-2xl object-cover w-full h-auto"
           />

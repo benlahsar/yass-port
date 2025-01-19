@@ -9,7 +9,7 @@ const Welcome = () => {
         muted
         className="absolute w-full h-full object-cover"
       >
-        <source src="/assets/video.mp4" type="video/mp4" />
+        <source src="https://res.cloudinary.com/du9af99hf/video/upload/v1737289707/Comp_1_1_1_v9taqm.mp4" type="video/mp4" />
       </video>
       <div className="relative flex items-center justify-center h-full bg-gray-900 bg-opacity-50">
         <div className="text-center">
