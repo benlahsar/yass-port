@@ -29,8 +29,8 @@ const Works = () => {
       link: "https://www.behance.net/gallery/175466693/unreal-engine-5-first-cinematic",
     },
     {
-      src: "https://res.cloudinary.com/du9af99hf/image/upload/v1737287273/greek_r0nchd.jpg",
-      description: "3D Greek Temple",
+      src: "https://res.cloudinary.com/du9af99hf/image/upload/v1737344185/photo_2025-01-19_21-50-53_fie9e0.jpg",
+      description: "Spiderman: Yassir's Version",
       link: "https://www.behance.net/gallery/175465381/greek-3d-map",
     },
   ];
